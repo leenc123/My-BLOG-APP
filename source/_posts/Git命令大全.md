@@ -2,6 +2,7 @@
 title: Git命令大全
 tags: [Git]
 categories: [运维]
+cover: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHXsy8FDyJpLBYS4Lncoq-_o6FO0__AYKydQ&s
 ---
 # Git 命令整理 📚
 

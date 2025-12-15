@@ -2,8 +2,11 @@
 title: Flutter打包脚本
 tags: [flutter,shell]
 categories: [移动开发,Flutter]
+cover: https://www.inovex.de/wp-content/uploads/2019/01/Flutter-1-1.png
+description: 一键打包脚本
 ---
 # 通用构建脚本
+
     ```bash
     #!/bin/bash
     set -e
