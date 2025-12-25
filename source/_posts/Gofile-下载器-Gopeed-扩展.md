@@ -7,6 +7,9 @@ cover: ../assets/images/Gofile 下载器 - Gopeed 扩展.png
 ## 功能简介
 专为 Gofile.io 网站设计的高效下载器扩展，无缝集成到 Gopeed 下载管理器。
 
+## 项目地址
+点击进入：[Gofile拓展地址](https://github.com/leenc123/gopeed-extension-gofile)
+
 ## 🚀 快速开始
 
 ### 第一步：获取认证参数
