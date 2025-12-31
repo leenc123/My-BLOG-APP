@@ -54,6 +54,7 @@ categories: [运维]
 | `docker-compose up` | 创建并启动所有服务 | `docker-compose up` |
 | `docker-compose up -d` | 后台启动所有服务 | `docker-compose up -d` |
 | `docker-compose down` | 停止并删除所有容器 | `docker-compose down` |
+| `docker-compose down -v` | 停止并删除所有容器并清理数据卷 | `docker-compose down -v` |
 | `docker-compose stop` | 停止所有服务 | `docker-compose stop` |
 | `docker-compose start` | 启动已停止的服务 | `docker-compose start` |
 | `docker-compose restart` | 重启所有服务 | `docker-compose restart` |
