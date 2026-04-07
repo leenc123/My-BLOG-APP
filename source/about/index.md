@@ -30,6 +30,10 @@ comments: true  # 是否开启评论
 - **专业**: 计算机科学与技术
 - **时间**: 2012-2016
 
+## 📚 开源项目
+- **[gopeed-extension-gofile](https://github.com/leenc123/gopeed-extension-gofile)**:一个基于Gopeed下载器的gofile拓展
+- **[开源erp系统](https://github.com/leenc123/erp)**:基于盒木erp社区版改造的简易erp系统
+
 ## 📫 联系我
 
 - **邮箱**: 470360046@qq.com
